@@ -30,7 +30,6 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209391715,
         85633111
     ],
     "wof:breaches":[],
