@@ -103,7 +103,6 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        101812875,
         1377686073,
         85633111,
         101855617,
@@ -120,7 +119,6 @@
         {
             "continent_id":102191581,
             "country_id":-1,
-            "locality_id":101812875,
             "neighbourhood_id":1393633685,
             "region_id":-1
         },
